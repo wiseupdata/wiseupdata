@@ -21,6 +21,10 @@
 <h1>
 <img align="left" alt="DP-203" src="assets/high-tech_1500282632.jpg" width="800" />
 
+<br>
+<br>
+
+
 # Welcome to Wise Up Data
 </h1>
 
