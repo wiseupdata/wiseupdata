@@ -58,3 +58,5 @@ If you are interested in learning more about how we can help your business with 
 * Email:[silvio.liborio@wiseupdata.com](mailto:silvio.liborio@wiseupdata.com)
 
 Thank you for considering Wise Up Data as your technology partner.
+
+![](assets/welcome.gif)
