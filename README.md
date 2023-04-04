@@ -11,8 +11,8 @@
   <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/200536ac97c85161cdfea6de4fc9b271ba197c2d/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.microsoft-data-engineering&left_color=green&right_color=black) 
-![license](https://img.shields.io/github/license/wiseupdata/microsoft-data-engineering?style=plastic)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.wiseupdatag&left_color=green&right_color=black) 
+![license](https://img.shields.io/github/license/wiseupdata/wiseupdata?style=plastic)
 
 ---
 
