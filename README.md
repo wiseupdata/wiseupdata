@@ -8,7 +8,7 @@
   <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://github.com/wiseupdata/wiseupdata/blob/main/assets/twitter.svg" />
 </a>
 <a href="https://github.com/wiseupdata/wiseupdata">
-  <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/assets/linkedin.png" />
+  <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/main/assets/linkedin.png" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.wiseupdatag&left_color=green&right_color=black) 
