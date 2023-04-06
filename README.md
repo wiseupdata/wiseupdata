@@ -2,7 +2,7 @@
   <img align="left" alt="Wise Up Data's Instagram" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/main/assets/instagram.png" />   
 </a> 
 <a href="https://github.com/wiseupdata/microsoft-data-engineering">
-  <img align="left" alt="wise Up Data's Discord" width="22px" src="https://github.com/wiseupdata/wiseupdata/blob/main/assets/discord.svg" />
+  <img align="left" alt="wise Up Data's Discord" width="22px" src="https://github.com/wiseupdata/wiseupdata/blob/main/assets/discord.png" />
 </a>
 <a href="https://github.com/wiseupdata/microsoft-data-engineering">
   <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://github.com/wiseupdata/wiseupdata/blob/main/assets/twitter.svg" />
@@ -31,13 +31,13 @@
 <br>
 
 
-💡 Wise Up Data is a new startup, specializing in Cloud Azure and AWS, data engineering and architecture, and Software as a Service (SaaS).
+💡 Wise Up Data is a new startup, specializing in Cloud Azure, AWS and OCI, data engineering and architecture, and Software as a Service (SaaS).
 
 ## Our Services
 
 At Wise Up Data, we offer a range of services, including:
 
-* Cloud architecture and management on Azure and AWS
+* Cloud architecture and management
 * Data engineering and analysis
 * Software as a Service (SaaS) development
 * Custom application development
@@ -49,7 +49,7 @@ As a one-person startup, Wise Up Data is committed to providing personalized and
 
 ## Our Founder
 
-Wise Up Data was founded by John Doe, a cloud computing and data engineering expert with over 10 years of experience in the industry. John is committed to staying up to date with the latest trends and technologies to provide his clients with cutting-edge solutions.
+Wise Up Data was founded by Silvio Liborio, a cloud computing and data engineering expert with over 10 years of experience in the industry. Silvio is committed to staying up to date with the latest trends and technologies to provide his clients with cutting-edge solutions.
 
 ## Contact Us
 
@@ -58,5 +58,9 @@ If you are interested in learning more about how we can help your business with 
 * Email:[silvio.liborio@wiseupdata.com](mailto:silvio.liborio@wiseupdata.com)
 
 Thank you for considering Wise Up Data as your technology partner.
+
+<br>
+<br>
+<br>
 
 ![](assets/welcome.gif)
