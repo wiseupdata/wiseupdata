@@ -2,10 +2,10 @@
   <img align="left" alt="Wise Up Data's Instagram" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/main/assets/instagram.png" />   
 </a> 
 <a href="https://github.com/wiseupdata/wiseupdata">
-  <img align="left" alt="wise Up Data's Discord" width="22px" src="https://github.com/wiseupdata/wiseupdata/blob/main/assets/discord.png" />
+  <img align="left" alt="wise Up Data's Discord" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/main/assets/discord.png" />
 </a>
 <a href="https://github.com/wiseupdata/wiseupdata">
-  <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://github.com/wiseupdata/wiseupdata/blob/main/assets/twitter.svg" />
+  <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/main/assets/twitter.png" />
 </a>
 <a href="https://github.com/wiseupdata/wiseupdata">
   <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/main/assets/linkedin.png" />
