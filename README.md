@@ -83,9 +83,11 @@ Thank you for visiting my website! If you're interested in working together, fee
  
   - 💻 [GitHub repositories](https://github.com/wiseupdata?tab=repositories)
 
-🚀 My Python projects in pypi.org
+My Python projects in pypi.org 🚀 
    - [strplus](https://pypi.org/project/strplus/)
+      - [documentation](https://wiseupdata.github.io/strplus/index.html)
    - [pysparkplus](https://pypi.org/project/pysparkplus/)
+      - [documentation](https://wiseupdata.github.io/pysparkplus/index.html)
 
 
 <br>
