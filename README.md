@@ -70,10 +70,16 @@ Here are some of my technical skills:
 ## Contact Me
 
 Thank you for visiting my website! If you're interested in working together, feel free to contact me 📧📞💬
-  - silllvio@hotmail.com
-  - silvio.liborio@wiseupdata.com
 
-Data solutions for a data-driven world 🌎🔍📈
+  - 💬 silllvio@hotmail.com
+  - 📧 silvio.liborio@wiseupdata.com
+
+  - <a href="https://www.linkedin.com/in/silvio-de-melo-liborio">silvio-de-melo-liborio <img align="left" alt="LinkedIN" width="18px" src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/linkedin.svg" />
+</a>
+
+<br>
+
+## Contributions for the community!
  
   - 💻 [GitHub repositories](https://github.com/wiseupdata?tab=repositories)
 
@@ -81,6 +87,13 @@ Data solutions for a data-driven world 🌎🔍📈
    - [strplus](https://pypi.org/project/strplus/)
    - [pysparkplus](https://pypi.org/project/pysparkplus/)
 
+
+<br>
+<br>
+<br>
+
+Data solutions for a data-driven world 🌎🔍📈
+
 ---
 
-Copyright © WiseUpData 2023. All rights reserved. Connect with us on social media! 📅📱
+Copyright © WiseUpData 2023. All rights reserved
