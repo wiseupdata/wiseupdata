@@ -48,7 +48,7 @@ Here are some of my technical skills:
 
 - Streaming: Kafka, SparkStreaming.
 
-- DevOps: GitHub, Jenkins, GitLab, Docker, Airflow, Azure DevOps, Linux, Centos, Debian, WSL2.
+- DevOps: Terraform, GitHub, Jenkins, GitLab, Docker, Azure DevOps, Linux, Centos, Debian, WSL2.
 
 - Analytics: Tableau, R studio, Python, Qlik View, Power BI.
 
